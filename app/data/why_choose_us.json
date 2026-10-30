@@ -1,0 +1,63 @@
+
+{
+  "tagline": "Travel with confidence",
+  "heading": {
+    "light": "More than a trip,",
+    "accent": "a better way to travel."
+  },
+  "description": "We make every journey feel effortless with thoughtful planning, trusted local expertise, and experiences designed around you.",
+  "image": "/why-choose-us.jpg",
+  "imageAlt": "Travelers exploring a beautiful mountain destination",
+  "badge": {
+    "value": "10+",
+    "label": "Years of travel expertise"
+  },
+  "stats": [
+    {
+      "value": "2,500+",
+      "label": "Happy travelers"
+    },
+    {
+      "value": "150+",
+      "label": "Curated experiences"
+    },
+    {
+      "value": "98%",
+      "label": "Traveler satisfaction"
+    }
+  ],
+  "features": [
+    {
+      "id": "personalized",
+      "number": "01",
+      "icon": "compass",
+      "title": "Journeys made for you",
+      "description": "Personalized itineraries shaped around your interests, budget, pace, and travel style."
+    },
+    {
+      "id": "local-experts",
+      "number": "02",
+      "icon": "map-pin",
+      "title": "Local knowledge, real experiences",
+      "description": "Discover authentic places, hidden gems, and local culture with thoughtful guidance."
+    },
+    {
+      "id": "transparent-pricing",
+      "number": "03",
+      "icon": "wallet",
+      "title": "Clear and honest pricing",
+      "description": "Understand your travel costs upfront, with clear package details and no unwanted surprises."
+    },
+    {
+      "id": "support",
+      "number": "04",
+      "icon": "headset",
+      "title": "Support when you need it",
+      "description": "Get friendly assistance before your journey, during your trip, and whenever plans change."
+    }
+  ],
+  "cta": {
+    "label": "Plan your next journey",
+    "href": "#tour-packages"
+  }
+}

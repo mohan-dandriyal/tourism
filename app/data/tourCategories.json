@@ -1,0 +1,180 @@
+
+
+{
+  "tagline": "Explore Your Way",
+  "heading": {
+    "light": "Find your kind",
+    "bold": "of adventure."
+  },
+  "description": "From peaceful nature escapes to thrilling mountain adventures, discover the perfect travel experience for every mood and moment.",
+  "categories": [
+    {
+      "id": "adventure",
+      "number": "01",
+      "title": "Adventure Tours",
+      "subtitle": "For the thrill seekers",
+      "description": "Step outside your comfort zone with exciting outdoor activities, mountain trails, trekking experiences, and unforgettable adventures.",
+      "icon": "mountain",
+      "image": "/images/categories/adventure.jpg",
+      "imageAlt": "Travelers hiking along a scenic mountain trail",
+      "tourCount": 12,
+      "startingPrice": 149,
+      "currency": "USD",
+      "highlights": [
+        "Mountain trekking",
+        "Hiking trails",
+        "Outdoor exploration"
+      ],
+      "href": "/tours?category=adventure",
+      "cta": "Explore Adventures"
+    },
+    {
+      "id": "nature",
+      "number": "02",
+      "title": "Nature Escapes",
+      "subtitle": "Reconnect with nature",
+      "description": "Escape busy city life and discover peaceful forests, beautiful lakes, green valleys, and breathtaking natural landscapes.",
+      "icon": "trees",
+      "image": "/images/categories/nature.jpg",
+      "imageAlt": "Peaceful green valley surrounded by mountains",
+      "tourCount": 10,
+      "startingPrice": 99,
+      "currency": "USD",
+      "highlights": [
+        "Scenic landscapes",
+        "Forest retreats",
+        "Lakes and valleys"
+      ],
+      "href": "/tours?category=nature",
+      "cta": "Discover Nature"
+    },
+    {
+      "id": "family",
+      "number": "03",
+      "title": "Family Holidays",
+      "subtitle": "Make memories together",
+      "description": "Enjoy family-friendly destinations and thoughtfully planned holidays with sightseeing, comfortable travel, and activities for different ages.",
+      "icon": "users",
+      "image": "/images/categories/family.jpg",
+      "imageAlt": "Family enjoying a holiday together in a scenic destination",
+      "tourCount": 8,
+      "startingPrice": 199,
+      "currency": "USD",
+      "highlights": [
+        "Family sightseeing",
+        "Kid-friendly activities",
+        "Comfortable itineraries"
+      ],
+      "href": "/tours?category=family",
+      "cta": "Explore Family Tours"
+    },
+    {
+      "id": "honeymoon",
+      "number": "04",
+      "title": "Honeymoon Trips",
+      "subtitle": "Celebrate your love",
+      "description": "Create special memories with romantic getaways, beautiful views, intimate experiences, and relaxing destinations for two.",
+      "icon": "heart",
+      "image": "/images/categories/honeymoon.jpg",
+      "imageAlt": "Couple enjoying a romantic mountain sunset",
+      "tourCount": 6,
+      "startingPrice": 299,
+      "currency": "USD",
+      "highlights": [
+        "Romantic escapes",
+        "Scenic stays",
+        "Couple experiences"
+      ],
+      "href": "/tours?category=honeymoon",
+      "cta": "Explore Honeymoon Trips"
+    },
+    {
+      "id": "cultural",
+      "number": "05",
+      "title": "Cultural Tours",
+      "subtitle": "Discover local traditions",
+      "description": "Experience the stories, heritage, architecture, cuisine, festivals, and traditions that make every destination unique.",
+      "icon": "landmark",
+      "image": "/images/categories/cultural.jpg",
+      "imageAlt": "Historic architecture representing local culture and heritage",
+      "tourCount": 9,
+      "startingPrice": 119,
+      "currency": "USD",
+      "highlights": [
+        "Historic landmarks",
+        "Local cuisine",
+        "Cultural experiences"
+      ],
+      "href": "/tours?category=cultural",
+      "cta": "Discover Culture"
+    },
+    {
+      "id": "road-trips",
+      "number": "06",
+      "title": "Road Trips",
+      "subtitle": "Enjoy the journey",
+      "description": "Discover scenic routes, charming towns, mountain roads, and memorable stops with flexible road trip itineraries.",
+      "icon": "car-front",
+      "image": "/images/categories/road-trips.jpg",
+      "imageAlt": "Car traveling along a scenic mountain road",
+      "tourCount": 7,
+      "startingPrice": 129,
+      "currency": "USD",
+      "highlights": [
+        "Scenic driving routes",
+        "Flexible itineraries",
+        "Hidden destinations"
+      ],
+      "href": "/tours?category=road-trips",
+      "cta": "Explore Road Trips"
+    },
+    {
+      "id": "weekend",
+      "number": "07",
+      "title": "Weekend Getaways",
+      "subtitle": "Short trips, big memories",
+      "description": "Make the most of your time with refreshing short breaks, nearby destinations, and relaxing experiences away from your daily routine.",
+      "icon": "calendar-days",
+      "image": "/images/categories/weekend.jpg",
+      "imageAlt": "Travelers relaxing at a peaceful weekend destination",
+      "tourCount": 11,
+      "startingPrice": 79,
+      "currency": "USD",
+      "highlights": [
+        "Short holiday trips",
+        "Nearby destinations",
+        "Relaxing escapes"
+      ],
+      "href": "/tours?category=weekend",
+      "cta": "Find a Getaway"
+    },
+    {
+      "id": "group",
+      "number": "08",
+      "title": "Group Tours",
+      "subtitle": "Better adventures together",
+      "description": "Share incredible travel experiences with friends, fellow explorers, and organized groups through coordinated itineraries and sightseeing.",
+      "icon": "users-round",
+      "image": "/images/categories/group.jpg",
+      "imageAlt": "Group of travelers exploring a beautiful destination",
+      "tourCount": 5,
+      "startingPrice": 179,
+      "currency": "USD",
+      "highlights": [
+        "Group sightseeing",
+        "Shared experiences",
+        "Organized itineraries"
+      ],
+      "href": "/tours?category=group",
+      "cta": "Explore Group Tours"
+    }
+  ],
+  "bottomCta": {
+    "heading": "Can't find your perfect trip?",
+    "description": "Tell us what you have in mind, and we'll help you plan a personalized travel experience.",
+    "button": {
+      "label": "Customize Your Trip",
+      "href": "/contact"
+    }
+  }
+}

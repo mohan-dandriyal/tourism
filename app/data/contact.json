@@ -1,0 +1,153 @@
+{
+  "contact": {
+    "id": "contact",
+    "theme": {
+      "navy": "#252D4A",
+      "terracotta": "#BD5938",
+      "cream": "#FAF9F6",
+      "muted": "#777A83",
+      "line": "#E8E3DB",
+      "olive": "#8A9B79",
+      "tile": "#F2F0E9",
+      "surface": "#FFFFFF",
+      "blush": "#E5B5A4",
+      "oliveSoft": "#E8EDE4",
+      "successBg": "#F0F4EC",
+      "successBorder": "#DCE5D4"
+    },
+    "tagline": "Let's plan your journey",
+    "heading": {
+      "light": "Every great journey",
+      "bold": "starts with a hello."
+    },
+    "description": "Have a destination in mind or need a little inspiration? Tell us what you're dreaming of, and we'll help you plan a journey worth remembering.",
+    "image": "/contact-travel.jpg",
+    "imageAlt": "Beautiful mountain road winding through a scenic travel destination",
+    "card": {
+      "icon": "compass",
+      "chipIcon": "map-pin",
+      "chip": "Made for your next adventure",
+      "footnote": "Let's make it memorable"
+    },
+    "badge": {
+      "title": "Your next adventure",
+      "description": "is closer than you think."
+    },
+    "details": [
+      {
+        "id": "email",
+        "icon": "mail",
+        "label": "Email us",
+        "value": "hello@yourtravelcompany.com",
+        "href": "mailto:hello@yourtravelcompany.com",
+        "external": false,
+        "description": "We usually reply within one business day."
+      },
+      {
+        "id": "phone",
+        "icon": "phone",
+        "label": "Call us",
+        "value": "+91 98765 43210",
+        "href": "tel:+919876543210",
+        "external": false,
+        "description": "Talk to our travel planning team."
+      },
+      {
+        "id": "location",
+        "icon": "map-pin",
+        "label": "Visit us",
+        "value": "Noida, Uttar Pradesh, India",
+        "href": "https://maps.google.com/?q=Noida,Uttar+Pradesh,India",
+        "external": true,
+        "description": "Let's talk about your next adventure."
+      }
+    ],
+    "responseNote": {
+      "icon": "clock",
+      "title": "Here when you need us.",
+      "text": "Send us your ideas and let's start planning."
+    },
+    "form": {
+      "eyebrow": "Get in touch",
+      "title": "Tell us about your trip.",
+      "description": "Share a few details and we'll help you take the next step.",
+      "endpoint": "",
+      "method": "POST",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Your full name",
+          "type": "text",
+          "placeholder": "John Smith",
+          "required": true,
+          "width": "half",
+          "autoComplete": "name"
+        },
+        {
+          "name": "email",
+          "label": "Email address",
+          "type": "email",
+          "placeholder": "you@example.com",
+          "required": true,
+          "width": "half",
+          "autoComplete": "email"
+        },
+        {
+          "name": "phone",
+          "label": "Phone number (optional)",
+          "type": "tel",
+          "placeholder": "+91 98765 43210",
+          "required": false,
+          "width": "full",
+          "autoComplete": "tel"
+        },
+        {
+          "name": "destination",
+          "label": "Where would you like to go?",
+          "type": "text",
+          "placeholder": "e.g. Uttarakhand, Goa, Rajasthan",
+          "icon": "map-pin",
+          "required": true,
+          "width": "full"
+        },
+        {
+          "name": "travelDate",
+          "label": "Preferred travel date",
+          "type": "date",
+          "icon": "calendar",
+          "required": false,
+          "width": "half"
+        },
+        {
+          "name": "travelers",
+          "label": "Number of travelers",
+          "type": "number",
+          "icon": "users",
+          "min": "1",
+          "defaultValue": "2",
+          "required": true,
+          "width": "half"
+        },
+        {
+          "name": "message",
+          "label": "Tell us a little about your plans...",
+          "type": "textarea",
+          "placeholder": "Tell us about your ideal trip, preferred activities, or any special requests...",
+          "rows": 4,
+          "required": true,
+          "width": "full"
+        }
+      ],
+      "submitLabel": "Send your enquiry",
+      "submittingLabel": "Sending...",
+      "submitIcon": "send",
+      "errorMessage": "Something went wrong while sending your enquiry. Please try again or contact us directly.",
+      "note": "Your details will only be used to respond to your enquiry."
+    },
+    "success": {
+      "title": "Thanks for reaching out!",
+      "description": "Your enquiry is ready. Connect this form to your backend to submit it to your travel team.",
+      "resetLabel": "Send another enquiry"
+    }
+  }
+}

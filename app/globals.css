@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+/* ------------------------------------------------------------------
+   Travel logo theme: sunset oranges and yellows, ocean blues, black outlines.
+   Paste this into app/globals.css (or import it there).
+------------------------------------------------------------------- */
+:root {
+  /* Sunset (top of the pin) */
+  --sun-red: #0a5bd6;
+  --sun-orange: #0a5bd6;
+  --sun-yellow: #0a84ff;
+
+  /* Sea (bottom of the pin) */
+  --sea-cyan: #1ec8ff;
+  --sea-blue: #0a84ff;
+  --sea-deep: #0a5bd6;
+
+  /* The logo's bold outline and text */
+  --ink: #111111;
+
+  /* Gradients: use as  bg-[image:var(--grad-sunset)]  */
+  --grad-sunset: linear-gradient(135deg, #026ada 0%, #0a5bd6 45%, #1ec8ff 100%);
+  --grad-sea: linear-gradient(135deg, #0a5bd6 0%, #0a84ff 50%, #1ec8ff 100%);
+
+  /* Your existing components (VolunteerSlider etc.) pick the theme up from these */
+  --brand: #0a5bd6;
+  --brand-ink: #b83200; /* dark orange, readable as text on white */
+  --brand-tint: #fff1e0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}

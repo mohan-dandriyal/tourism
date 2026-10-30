@@ -1,0 +1,181 @@
+
+{
+  "hero": {
+    "tagline": "Our Services",
+    "heading": {
+      "light": "Every journey,",
+      "bold": "uniquely yours."
+    },
+    "description": "From personalized travel planning to unforgettable outdoor adventures, we make every journey simple, meaningful, and memorable.",
+    "image": "/images/services-hero.jpg",
+    "imageAlt": "Travelers exploring a beautiful mountain destination",
+    "cta": {
+      "label": "Plan Your Trip",
+      "href": "/contact"
+    }
+  },
+  "section": {
+    "tagline": "What We Offer",
+    "heading": {
+      "light": "Travel more.",
+      "bold": "Worry less."
+    },
+    "description": "Discover travel services designed around your interests, your schedule, and the experiences you want to remember.",
+    "services": [
+      {
+        "id": "customized-trip-planning",
+        "number": "01",
+        "icon": "map-pinned",
+        "title": "Customized Trip Planning",
+        "subtitle": "Your journey, your way",
+        "shortDescription": "Personalized itineraries designed around your travel style, budget, and dream destinations.",
+        "description": "Every traveler has a different idea of the perfect holiday. We help you turn your travel ideas into a personalized itinerary, with carefully selected destinations, activities, travel routes, and schedules that suit your preferences.",
+        "image": "/service-1.jpg",
+        "imageAlt": "Travelers planning a personalized holiday with a map",
+        "features": [
+          "Personalized day-by-day itineraries",
+          "Destination and attraction recommendations",
+          "Travel budget and duration planning",
+          "Family, couple, and group trip planning",
+          "Flexible schedules based on your preferences"
+        ],
+        "benefits": [
+          "A trip tailored to your interests",
+          "Better organized travel schedules",
+          "More time to enjoy meaningful experiences"
+        ],
+        "cta": {
+          "label": "Plan Your Trip",
+          "href": "/contact?service=customized-trip-planning"
+        }
+      },
+      {
+        "id": "adventure-nature-trips",
+        "number": "02",
+        "icon": "mountain",
+        "title": "Adventure & Nature Trips",
+        "subtitle": "Find your next adventure",
+        "shortDescription": "Explore scenic landscapes, mountain trails, peaceful escapes, and exciting outdoor experiences.",
+        "description": "Reconnect with nature through memorable outdoor journeys. Whether you love mountain scenery, hiking trails, quiet countryside escapes, or discovering hidden destinations, we help you plan experiences that bring you closer to the natural world.",
+        "image": "/service-2.jpg",
+        "imageAlt": "Travelers exploring a scenic mountain trail",
+        "features": [
+          "Mountain and nature sightseeing",
+          "Trekking and hiking trip planning",
+          "Scenic road trips and viewpoints",
+          "Camping and outdoor experience planning",
+          "Local culture and village exploration"
+        ],
+        "benefits": [
+          "Discover beautiful places beyond the usual routes",
+          "Choose experiences suited to your interests",
+          "Create lasting memories in nature"
+        ],
+        "cta": {
+          "label": "Explore Adventures",
+          "href": "/contact?service=adventure-nature-trips"
+        }
+      },
+      {
+        "id": "travel-assistance",
+        "number": "03",
+        "icon": "headset",
+        "title": "Travel Assistance",
+        "subtitle": "We're here to help",
+        "shortDescription": "Get practical guidance and booking assistance to make organizing your journey easier.",
+        "description": "Planning a trip can involve many details. Our travel assistance service helps you navigate travel arrangements, understand your itinerary, coordinate schedules, and get answers to questions before your journey begins.",
+        "image": "/service-2.jpg",
+        "imageAlt": "Travel consultant assisting customers with travel arrangements",
+        "features": [
+          "Travel planning and booking guidance",
+          "Itinerary and schedule coordination",
+          "Destination information and local guidance",
+          "Assistance with travel arrangement questions",
+          "Help understanding booking changes and policies"
+        ],
+        "benefits": [
+          "Less stress when organizing your trip",
+          "Clearer travel arrangements",
+          "Helpful guidance throughout the planning process"
+        ],
+        "cta": {
+          "label": "Get Travel Assistance",
+          "href": "/contact?service=travel-assistance"
+        }
+      },
+      {
+        "id": "tour-packages",
+        "number": "04",
+        "icon": "compass",
+        "title": "Tour Packages",
+        "subtitle": "Discover more, together",
+        "shortDescription": "Explore thoughtfully planned tour packages for families, couples, groups, and curious travelers.",
+        "description": "Discover destinations with tour packages that bring together sightseeing, travel routes, activities, and suggested itineraries. Choose a ready-made travel experience or ask us to customize a package around your schedule and budget.",
+        "image": "/service-4.jpg",
+        "imageAlt": "Beautiful travel destination with mountains and a scenic lake",
+        "features": [
+          "Domestic tour packages",
+          "Family holidays and couple getaways",
+          "Group tours and sightseeing experiences",
+          "Weekend trips and short holidays",
+          "Customizable packages and itineraries"
+        ],
+        "benefits": [
+          "Conveniently organized travel plans",
+          "Options for different travel preferences",
+          "More time to enjoy your destination"
+        ],
+        "cta": {
+          "label": "Explore Tour Packages",
+          "href": "/tours"
+        }
+      }
+    ]
+  },
+  "process": {
+    "tagline": "How It Works",
+    "heading": {
+      "light": "From your first idea",
+      "bold": "to the open road."
+    },
+    "description": "A simple process helps you turn your travel dreams into a well-planned journey.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Share Your Ideas",
+        "description": "Tell us your preferred destination, travel dates, budget, and the experiences you enjoy."
+      },
+      {
+        "number": "02",
+        "title": "Customize Your Plan",
+        "description": "Explore suitable destinations, activities, routes, and itinerary options."
+      },
+      {
+        "number": "03",
+        "title": "Confirm Your Journey",
+        "description": "Review the proposed arrangements, costs, and booking details before confirming."
+      },
+      {
+        "number": "04",
+        "title": "Enjoy the Experience",
+        "description": "Set off on your adventure with your travel plan ready and the details organized."
+      }
+    ]
+  },
+  "cta": {
+    "tagline": "Your Next Adventure Awaits",
+    "heading": {
+      "light": "Let's plan something",
+      "bold": "unforgettable."
+    },
+    "description": "Tell us what your ideal journey looks like, and let's start creating a travel experience made for you.",
+    "primaryButton": {
+      "label": "Start Planning",
+      "href": "/contact"
+    },
+    "secondaryButton": {
+      "label": "Explore Tours",
+      "href": "/tours"
+    }
+  }
+}

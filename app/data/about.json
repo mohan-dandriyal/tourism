@@ -1,0 +1,59 @@
+{
+  "tagline": "About Us",
+  "heading": {
+    "light": "Travel with",
+    "bold": "people who care."
+  },
+  "description": [
+    "We are a small team of travel lovers who plan journeys the way we would plan our own: with curiosity, honest advice and attention to the little details that make a trip feel effortless.",
+    "From quiet mountain villages to coastal road trips, we turn your ideas into a clear plan, and stay on hand until you are safely home with stories to tell."
+  ],
+  "images": {
+    "main": { "src": "/about-1.jpg", "alt": "Travellers looking out over a green mountain valley" },
+    "secondary": { "src": "/about-2.jpg", "alt": "A guide showing a traveller a route on a map" }
+  },
+  "badge": {
+    "text": "Explore • Discover • Wander • Since 2012 • "
+  },
+  "rating": {
+    "value": "4.9",
+    "label": "from 15k happy travelers"
+  },
+  "features": [
+    {
+      "id": "destinations",
+      "icon": "map-pinned",
+      "title": "Handpicked destinations",
+      "description": "Places we have visited and trust, from famous sights to hidden corners."
+    },
+    {
+      "id": "pricing",
+      "icon": "wallet",
+      "title": "Honest pricing",
+      "description": "Clear costs up front, with no surprise charges along the way."
+    },
+    {
+      "id": "support",
+      "icon": "headset",
+      "title": "Support all the way",
+      "description": "A real person to help before, during and after your trip."
+    },
+    {
+      "id": "safety",
+      "icon": "shield-check",
+      "title": "Safe and reliable",
+      "description": "Vetted partners and carefully planned routes for peace of mind."
+    }
+  ],
+  "founder": {
+    "name": "Alex Morgan",
+    "role": "Founder and lead planner",
+    "image": { "src": "/images/founder.jpg", "alt": "Portrait of Alex Morgan" }
+  },
+  "contact": {
+    "label": "Talk to a planner",
+    "phone": "+00 000 000 0000",
+    "href": "tel:+000000000000"
+  }
+
+}

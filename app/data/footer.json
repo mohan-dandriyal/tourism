@@ -1,0 +1,100 @@
+
+{
+  "footer": {
+    "backgroundColor": "#F8F5F0",
+    "textColor": "#252D4A",
+    "mutedTextColor": "#666B78",
+    "accentColor": "#BD5938",
+    "borderColor": "#E5DED4",
+    "brand": {
+      "name": "Wanderly",
+      "logoImage": "/logo.png",
+      "imageAlt": "Wanderly Travel",
+      "description": "Thoughtfully planned journeys, unforgettable destinations, and memories that stay with you long after you return.",
+      "homeHref": "/"
+    },
+    "columns": [
+      {
+        "id": "explore",
+        "title": "Explore",
+        "links": [
+          { "label": "Home", "href": "/" },
+          { "label": "About Us", "href": "#about" },
+          { "label": "Our Services", "href": "#services" },
+          { "label": "Destinations", "href": "#destinations" }
+        ]
+      },
+      {
+        "id": "plan",
+        "title": "Plan your trip",
+        "links": [
+          { "label": "Travel Packages", "href": "#packages" },
+          { "label": "Testimonials", "href": "#testimonials" },
+          { "label": "Contact Us", "href": "#contact" },
+          { "label": "FAQs", "href": "#faq" }
+        ]
+      }
+    ],
+    "contact": {
+      "title": "Let's connect",
+      "items": [
+        {
+          "id": "email",
+          "label": "Email us",
+          "value": "hello@wanderlytravel.com",
+          "href": "mailto:hello@wanderlytravel.com",
+          "icon": "mail"
+        },
+        {
+          "id": "phone",
+          "label": "Call us",
+          "value": "+91 98765 43210",
+          "href": "tel:+919876543210",
+          "icon": "phone"
+        },
+        {
+          "id": "location",
+          "label": "Our location",
+          "value": "Noida, Uttar Pradesh, India",
+          "href": "https://maps.google.com/?q=Noida,Uttar+Pradesh,India",
+          "icon": "map-pin"
+        }
+      ],
+      "cta": {
+        "label": "Let's plan your journey",
+        "href": "#contact"
+      }
+    },
+    "socials": [
+      {
+        "id": "instagram",
+        "label": "Instagram",
+        "href": "https://instagram.com/",
+        "shortLabel": "IG"
+      },
+      {
+        "id": "facebook",
+        "label": "Facebook",
+        "href": "https://facebook.com/",
+        "shortLabel": "FB"
+      },
+      {
+        "id": "youtube",
+        "label": "YouTube",
+        "href": "https://youtube.com/",
+        "shortLabel": "YT"
+      }
+    ],
+    "bottom": {
+      "year": "2026",
+      "copyrightPrefix": "©",
+      "copyrightSuffix": "All rights reserved.",
+      "tagline": "Made for the journeys that matter."
+    },
+    "accessibility": {
+      "socialLinksLabel": "Follow us on social media",
+      "contactLinksLabel": "Contact information",
+      "footerNavigationLabel": "Footer navigation"
+    }
+  }
+}

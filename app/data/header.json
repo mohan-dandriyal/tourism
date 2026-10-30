@@ -1,0 +1,19 @@
+{
+  "logo": {
+    "image": "/logo.png",
+    "alt": "Travel logo",
+    "tagline": "Slogan here",
+    "href": "/"
+  },
+  "nav": [
+    { "label": "Home", "href": "#hero" },
+    { "label": "About", "href": "#about" },
+    { "label": "Service", "href": "#service" },
+    { "label": "Destinations", "href": "#destinations" },
+    { "label": "Why Choose Us", "href": "#why-choose-us" },
+    { "label": "Testimonials", "href": "#testimonials" }
+  ],
+  "actions": {
+    "contact": { "label": "Contact now", "href": "#contact", "icon": "phone" }
+  }
+}

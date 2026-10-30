@@ -1,0 +1,173 @@
+
+{
+  "tagline": "Discover Incredible India",
+  "heading": {
+    "light": "Explore popular",
+    "bold": "destinations."
+  },
+  "description": [
+    "From the majestic Himalayas to tropical beaches and royal heritage cities.",
+    "Discover India's most beautiful destinations for your next unforgettable journey."
+  ],
+  "badge": "Handpicked Indian destinations",
+  "labels": {
+    "featured": "Featured destination",
+    "titlePrefix": "Your next story",
+    "titleConnector": "begins in",
+    "tripDuration": "Trip duration",
+    "startingPrice": "Starting from",
+    "priceSuffix": "/ person",
+    "destinationCounter": "Destination",
+    "selectorTitle": "Choose your destination"
+  },
+  "button": {
+    "label": "Explore All Destinations",
+    "href": "#tour-packages"
+  },
+  "destinations": [
+    {
+      "id": "manali",
+      "name": "Manali",
+      "country": "Himachal Pradesh, India",
+      "category": "Mountain Escape",
+      "description": [
+        "Discover Himalayan peaks and snow-covered mountain landscapes.",
+        "Walk through pine forests, explore scenic valleys, and enjoy riverside views.",
+        "Experience unforgettable mountain adventures and peaceful nature retreats."
+      ],
+      "images": [
+        {
+          "src": "/Destinations/manali-1.jpg",
+          "alt": "Beautiful Himalayan mountains and green valleys near Manali"
+        },
+        {
+          "src": "/Destinations/manali-2.jpg",
+          "alt": "Snow-covered mountain peaks around Manali"
+        }
+      ],
+      "icon": "mountain",
+      "startingPrice": 12499,
+      "currency": "INR",
+      "duration": "3–5 Days",
+      "featured": true,
+      "href": "#tour-packages",
+      "cta": "Explore Destination"
+    },
+    {
+      "id": "goa",
+      "name": "Goa",
+      "country": "Goa, India",
+      "category": "Beach Escape",
+      "description": [
+        "Relax on golden beaches and enjoy beautiful coastal sunsets.",
+        "Explore Portuguese heritage, charming villages, and local markets.",
+        "Discover delicious Goan cuisine and vibrant seaside experiences."
+      ],
+      "images": [
+        {
+          "src": "/Destinations/goa-1.jpg",
+          "alt": "Tropical beach lined with palm trees in Goa"
+        },
+        {
+          "src": "/Destinations/goa-2.jpg",
+          "alt": "Golden sunset over a beach in Goa"
+        }
+      ],
+      "icon": "waves",
+      "startingPrice": 10999,
+      "currency": "INR",
+      "duration": "3–5 Days",
+      "featured": true,
+      "href": "#tour-packages",
+      "cta": "Explore Destination"
+    },
+    {
+      "id": "jaipur",
+      "name": "Jaipur",
+      "country": "Rajasthan, India",
+      "category": "Royal Heritage",
+      "description": [
+        "Explore magnificent palaces and historic forts.",
+        "Discover colorful markets and traditional Rajasthani culture.",
+        "Admire the architectural beauty of India's Pink City."
+      ],
+      "images": [
+        {
+          "src": "/Destinations/jaipur-1.jpg",
+          "alt": "Historic royal architecture in Jaipur, Rajasthan"
+        },
+        {
+          "src": "/Destinations/jaipur-2.jpg",
+          "alt": "Hawa Mahal palace facade in Jaipur"
+        }
+      ],
+      "icon": "landmark",
+      "startingPrice": 9999,
+      "currency": "INR",
+      "duration": "2–4 Days",
+      "featured": true,
+      "href": "#tour-packages",
+      "cta": "Explore Destination"
+    },
+    {
+      "id": "kerala",
+      "name": "Kerala",
+      "country": "Kerala, India",
+      "category": "Nature & Backwaters",
+      "description": [
+        "Relax among emerald tea plantations and tropical forests.",
+        "Cruise through peaceful backwaters on a traditional houseboat.",
+        "Discover beautiful coastal landscapes and lush green scenery."
+      ],
+      "images": [
+        {
+          "src": "/Destinations/kerala-1.jpg",
+          "alt": "Traditional houseboat surrounded by Kerala backwaters"
+        },
+        {
+          "src": "/Destinations/kerala-2.jpg",
+          "alt": "Lush green tea plantations in Kerala"
+        }
+      ],
+      "icon": "trees",
+      "startingPrice": 16499,
+      "currency": "INR",
+      "duration": "4–7 Days",
+      "featured": true,
+      "href": "#tour-packages",
+      "cta": "Explore Destination"
+    },
+    {
+      "id": "almora",
+      "name": "Almora",
+      "country": "Uttarakhand, India",
+      "category": "Himalayan Retreat",
+      "description": [
+        "Enjoy panoramic Himalayan views and peaceful mountain villages.",
+        "Experience traditional Kumaoni culture, food, and local markets.",
+        "Explore scenic forest trails and quiet hilltop viewpoints."
+      ],
+      "images": [
+        {
+          "src": "/Destinations/almora-1.jpg",
+          "alt": "Mountain scenery and traditional settlements around Almora"
+        },
+        {
+          "src": "/Destinations/almora-2.jpg",
+          "alt": "Panoramic Himalayan peaks viewed from Almora"
+        },
+        {
+          "src": "/Destinations/almora-3.jpg",
+          "alt": "Traditional Kumaoni houses among green hills"
+        }
+      ],
+      "icon": "mountain",
+      "startingPrice": 7999,
+      "currency": "INR",
+      "duration": "2–4 Days",
+      "featured": true,
+      "href": "#tour-packages",
+      "cta": "Explore Destination"
+    }
+  ]
+}

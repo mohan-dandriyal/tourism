@@ -1,0 +1,76 @@
+{
+  "tagline": "Testimonials",
+  "heading": {
+    "light": "What travelers",
+    "bold": "say about us"
+  },
+  "description": "Real words from the people who have travelled with us, from first idea to the journey home.",
+  "summary": {
+    "value": 4.9,
+    "total": "Based on 15,000+ traveler reviews",
+    "breakdown": [
+      { "stars": 5, "percent": 92 },
+      { "stars": 4, "percent": 6 },
+      { "stars": 3, "percent": 1 },
+      { "stars": 2, "percent": 1 },
+      { "stars": 1, "percent": 0 }
+    ]
+  },
+  "cta": { "label": "Contact Now", "href": "#contact" },
+  "testimonials": [
+    {
+      "id": "sofia",
+      "quote": "They planned every day around what we love. We never felt rushed, and the hidden beach they suggested was the best part of the trip.",
+      "name": "Sofia Alvarez",
+      "location": "Madrid, Spain",
+      "trip": "Emerald Bay",
+      "rating": 5,
+      "image": { "src": "/images/testimonial-1.jpg", "alt": "Portrait of Sofia Alvarez" }
+    },
+    {
+      "id": "rahul",
+      "quote": "Our trek was perfectly organised. When the weather changed, our planner had a new route ready within the hour.",
+      "name": "Rahul Sharma",
+      "location": "New Delhi, India",
+      "trip": "Mountain trek",
+      "rating": 5,
+      "image": { "src": "/images/testimonial-2.jpg", "alt": "Portrait of Rahul Sharma" }
+    },
+    {
+      "id": "emma",
+      "quote": "Honest advice and no surprise costs. We booked a road trip in ten minutes and it felt like it was made just for us.",
+      "name": "Emma Collins",
+      "location": "Manchester, UK",
+      "trip": "Coastal roads",
+      "rating": 5,
+      "image": { "src": "/images/testimonial-3.jpg", "alt": "Portrait of Emma Collins" }
+    },
+    {
+      "id": "kenji",
+      "quote": "Changing a booking is usually stressful. Here, someone answered every question and sorted everything out for us.",
+      "name": "Kenji Tanaka",
+      "location": "Osaka, Japan",
+      "trip": "Island headland",
+      "rating": 5,
+      "image": { "src": "/images/testimonial-4.jpg", "alt": "Portrait of Kenji Tanaka" }
+    },
+    {
+      "id": "amira",
+      "quote": "Travelling with three kids is hard. The plan had space for naps, snacks and surprises, and everyone came home happy.",
+      "name": "Amira Hassan",
+      "location": "Dubai, UAE",
+      "trip": "Family holiday",
+      "rating": 5,
+      "image": { "src": "/images/testimonial-5.jpg", "alt": "Portrait of Amira Hassan" }
+    },
+    {
+      "id": "lucas",
+      "quote": "Twelve friends, one weekend, zero arguments about the plan. That alone deserves five stars.",
+      "name": "Lucas Meyer",
+      "location": "Berlin, Germany",
+      "trip": "Group tour",
+      "rating": 5,
+      "image": { "src": "/images/testimonial-6.jpg", "alt": "Portrait of Lucas Meyer" }
+    }
+  ]
+}
